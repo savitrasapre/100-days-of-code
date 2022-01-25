@@ -17,4 +17,22 @@
 
 **Challenge** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
+### Day 2: January 22, Saturday 
+
+**Today's Progress**: Learnt about acutal implementation of QuickSort
+
+**Thoughts:** QS's main thing is that it puts pivot element in it's right place each iteration. Divide and Conquer. Worst case O(n2)
+
+**Challenge** [QuickSort](https://www.programiz.com/dsa/quick-sort)
+
+### Day 3: January 23, Sunday 
+
+**Today's Progress**: Lost out :(
+
+**Thoughts:** I'll get back on the run tomorrow
+
+### Day 4: January 24, Monday 
+
+**Today's Progress**: Implemented QuickSort
+
 
