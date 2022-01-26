@@ -35,4 +35,16 @@
 
 **Today's Progress**: Implemented QuickSort
 
+### Day 5: January 25, Tuesday 
+
+**Today's Progress**: Read about MergeSort
+
+**Thoughts** MS's main thing is indexes of the sub-arrays and how to copy main array's items into sub-arrays. Most of the algo flows through this.
+
+### Day 6: January 26, Wednesday 
+
+**Today's Progress**: Implemented MergeSort
+
+**Thoughts** MS's space complexity should be higher due to 2 new sub-arrays created in every recursive call
+
 
