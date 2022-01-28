@@ -47,4 +47,7 @@
 
 **Thoughts** MS's space complexity should be higher due to 2 new sub-arrays created in every recursive call
 
+### Day 7: January 27, Thursday 
+
+**Today's Progress**: Implemented Binary Search
 
