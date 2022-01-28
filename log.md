@@ -55,5 +55,5 @@
 
 **Today's Progress**: Merge sorted arrays into bigger array. Always think of modifying arrays from the back.
 
-**Challenge**: Merge sorted array(https://leetcode.com/problems/merge-sorted-array/)
+**Challenge**: [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
 
